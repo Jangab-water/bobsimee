@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="data model_2nd project" id="21662681-F5B2-C6F8-AA8A-BE7C270268F8" version="3.5">
+<createdBy>SM127</createdBy>
+<createdTime>2020-10-12 04:13:01 UTC</createdTime>
+<ownerDesignName>data model_2nd project</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>21662681-F5B2-C6F8-AA8A-BE7C270268F8</designId>
+</OSDM_Design>

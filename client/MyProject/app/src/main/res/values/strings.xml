@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="btn_main_login">LOGIN</string>
+    <string name="btn_main_join">JOIN</string>
+    <string name="edt_main_id">insert ID...</string>
+    <string name="edt_main_pw">insert PW...</string>
+    <string name="edt_join_name">insert your name...</string>
+    <string name="edt_join_id">insert your ID...</string>
+    <string name="edt_join_pw">insert your Password...</string>
+    <string name="btn_join_join">JOIN</string>
+    <string name="btn_mypage_logout">LOGOUT</string>
+    <string name="edt_mypage_ingredient">insert ingredient...</string>
+    <string name="btn_mypage_go">GO</string>
+</resources>
